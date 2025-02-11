@@ -22,15 +22,16 @@ Projeto de **cadastro de animais** desenvolvido em **Java**, utilizando conceito
 ## 📂 Estrutura do Projeto  
 
 📦 CadastroAnimais
-┣ 📜 Animal.java # Classe abstrata base
-┣ 📜 Mamifero.java # Subclasse de Animal (Mamífero)
-┣ 📜 Reptil.java # Subclasse de Animal (Réptil)
-┣ 📜 Ave.java # Subclasse de Animal (Ave)
-┣ 📜 Habitat.java # Classe representando o habitat
-┣ 📜 DietaExce.java # Exceção personalizada para dietas inválidas
-┣ 📜 Leitura.java # Classe para entrada de dados do usuário
-┣ 📜 Reproducao.java # Interface de reprodução
-┗ 📜 Principal.java # Classe principal com o menu interativo
+- 📜 **Animal.java**: Classe abstrata base
+- 📜 **Mamifero.java**: Subclasse de Animal (Mamífero)
+- 📜 **Reptil.java**: Subclasse de Animal (Réptil)
+- 📜 **Ave.java**: Subclasse de Animal (Ave)
+- 📜 **Habitat.java**: Classe representando o habitat
+- 📜 **DietaExce.java**: Exceção personalizada para dietas inválidas
+- 📜 **Leitura.java**: Classe para entrada de dados do usuário
+- 📜 **Reproducao.java**: Interface de reprodução
+- 📜 **Principal.java**: Classe principal com o menu interativo
+
 
 ---
 
