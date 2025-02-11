@@ -41,11 +41,14 @@ Projeto de **cadastro de animais** desenvolvido em **Java**, utilizando conceito
 git clone https://github.com/seu-usuario/cadastro-animais.git
 cd cadastro-animais
 
+```
 2️⃣ Compile os arquivos Java
+```sh
 javac *.java
-
+```
 3️⃣ Execute o programa
+```sh
 java Principal
-
+```
 👤 Autor
 Louise Paccola Peccin
