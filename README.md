@@ -37,12 +37,8 @@ Projeto de **cadastro de animais** desenvolvido em **Java**, utilizando conceito
 
 ## 🚀 Como Executar  
 
-1️⃣ **Clone o repositório**  
-```sh
-git clone https://github.com/seu-usuario/cadastro-animais.git
-cd cadastro-animais
+1️⃣ **Baixe a Pasta "Projeto POO - Louise P. Peccin"**  
 
-```
 2️⃣ Compile os arquivos Java
 ```sh
 javac *.java
