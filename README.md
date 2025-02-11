@@ -51,5 +51,5 @@ javac *.java
 ```sh
 java Principal
 ```
-👤 Autor
+## 👤 Autor
 Louise Paccola Peccin
